@@ -1,5 +1,45 @@
-مشروعنا الفلسفي الحضاري هو محاولة لإعادة مركز التفسير من خارج العالم إلى داخله، بجعل الكينونة ذاتها المعنى الكامل المفتقد الذي يسعى التاريخ إلى تحقيقه. نحن لا نقدّم نظرية مغلقة، بل دعوة مفتوحة للتفكير والبحث، حيث يعمل قانون التحرر الأول، وقانون الارتداد الطبيعي، ودورة الكينونة الحضارية كآليات داخلية لفهم صيرورة التاريخ.
-هذا المشروع ليس ملكًا لأحد، بل كيان حيّ يولد فينا وينمو بنا ومعنا، ويتطلع إلى إنارة الطريق نحو إنسان كوني جديد يتجاوز التناقض ويستعيد الرحمة والعدالة والثقة والإخلاص كجوهر للحياة المشتركة.
+# مشروعنا الفلسفي الحضاري – الفلسفة الحضارية وتفسير التاريخ والإنسان الكوني الجديد
 
-Our Philosophical-Civilizational Project is an attempt to shift the center of interpretation from outside the world to within it, making Being itself the complete missing meaning that history strives to fulfill. We do not present a closed theory but an open invitation to thought and inquiry, where the First Law of Liberation, the Law of Natural Regression, and the Cycle of Civilizational Being function as inner mechanisms for understanding the course of history.
-This project belongs to no one; it is a living entity born within us, growing with us, and seeking to illuminate the path toward a new cosmic human — one who transcends contradiction and restores mercy, justice, trust, and sincerity as the essence of shared life
+## وصف المشروع (Arabic)
+مشروعنا الفلسفي الحضاري هو محاولة لإعادة مركز التفسير من خارج العالم إلى داخله، بجعل الكينونة معنى مكتمل للحضارة والتاريخ. يهدف المشروع إلى فهم الإنسان الكوني الجديد، تفسير الحضارة والتاريخ بطريقة عملية وعميقة، ودمج المعرفة بالوعي الأخلاقي والرحمة والعدالة والإخلاص. كما يستفيد من فلسفة هايدغر ونقد الفكر الغربي في سياق حضاري متكامل.
+
+## أهداف المشروع (Arabic)
+- فهم الكينونة والارتقاء بالإنسان نحو الوعي الكامل.  
+- تفسير الحضارة والتاريخ من الداخل، عبر دورة الكينونة الحضارية.  
+- تعزيز التكامل الأفقي والعمودي بين الإنسان والمجتمع والعالم.  
+- تجاوز الاحتياجات الطبيعية والانطلاق نحو إنسان كوني جديد.  
+- دمج المعرفة بالوعي الأخلاقي، الرحمة، العدالة، الإخلاص.  
+- إبراز فلسفة هايدغر ونقد الفكر الغربي ضمن سياق حضاري عربي وعالمي.
+
+## الملفات والروابط (Arabic)
+- [مشروعنا الفلسفي الحضاري (PDF)](مشروعنا الفلسفي الحضاري.pdf)  
+- [Our Philosophical Civilizational Project (PDF)](Our_Philosophical_Civilizational_Project.pdf)  
+- [ملف الموقع (index.html)](index.html)  
+- [ملف التنسيق (style.css)](style.css)  
+
+---
+
+# Our Philosophical Civilizational Project – Civilizational Philosophy and Interpreting History & The New Cosmic Human
+
+## Project Description (English)
+Our Philosophical Civilizational Project is an attempt to shift the center of interpretation from outside the world to within, making being the complete meaning of civilization and history. The project aims to understand the New Cosmic Human, interpret civilization and history practically and deeply, and integrate knowledge with ethical consciousness, compassion, justice, and sincerity. It also draws on Heidegger's philosophy and the critique of Western thought in a comprehensive civilizational context.
+
+## Project Goals (English)
+- Understanding being and elevating humans toward full consciousness.  
+- Interpreting civilization and history from within, through the civilizational being cycle.  
+- Enhancing horizontal and vertical integration between humans, society, and the world.  
+- Surpassing natural needs and advancing toward a New Cosmic Human.  
+- Integrating knowledge with ethical awareness, compassion, justice, and sincerity.  
+- Highlighting Heidegger’s philosophy and critiquing Western thought within an Arab and global civilizational context.
+
+## Documents & Links (English)
+- [Our Philosophical Civilizational Project (PDF)](Our_Philosophical_Civilizational_Project.pdf)  
+- [مشروعنا الفلسفي الحضاري (PDF)](مشروعنا الفلسفي الحضاري.pdf)  
+- [Website File (index.html)](index.html)  
+- [CSS File (style.css)](style.css)  
+
+---
+
+© 2025 مشروعنا الفلسفي الحضاري | All Rights Reserved
+
+**Keywords / كلمات مفتاحية:** مشروع فلسفي حضاري, تفسير التاريخ, الكينونة, الإنسان الكوني الجديد, الفلسفة الحضارية, دورة الكينونة الحضارية, التكامل الأفقي والعمودي, تجاوز الاحتياجات الطبيعية, الوعي الأخلاقي, الرحمة, العدالة, الإخلاص, فلسفة هايدغر, نقد الفكر الغربي, الحضارة, التاريخ, معرفة الإنسان, مشروع فلسفي عربي, مشروع فلسفي عالمي
