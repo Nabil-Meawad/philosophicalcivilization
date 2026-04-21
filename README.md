@@ -9,7 +9,7 @@ PhilosophicalCivilization is an open conceptual framework that approaches civili
 
 At its center is:
 
-**CSP — Civilizational Structural Paradigm**
+CSP — Civilizational Structural Theory
 
 This paradigm views civilization as a network of relations shaped by distance, interaction, and meaning.
 
