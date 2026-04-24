@@ -1,6 +1,5 @@
 # PhilosophicalCivilization  
-# CSP — Civilizational Structural Theory
-
+# CSP — Civilizational Structural Paradigm
 ---
 
 ## English
