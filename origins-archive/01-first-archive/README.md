@@ -1,52 +1,74 @@
-# 🌌 Comprehensive Philosophical Civilization Project
-## الرؤية الكونية الجديدة في تفسير مشكلة الإنسان والتاريخ
-### *A New Cosmic Vision for Human and Historical Interpretation*
+# PhilosophicalCivilization  
+# CSP — Civilizational Structural Paradigm
+---
+
+## English
+
+PhilosophicalCivilization is an open conceptual framework that approaches civilization as a structured system rather than a linear historical sequence.
+
+At its center is:
+
+CSP — Civilizational Structural Paradigm
+
+This paradigm views civilization as a network of relations shaped by distance, interaction, and meaning.
+
+It does not aim to produce final answers or a closed doctrine.  
+Instead, it provides a structure for continuous examination of civilization, history, and human systems.
+
+Within this perspective:
+
+- Civilization is not a fixed entity, but an evolving structure.  
+- Difference is not an obstacle, but a necessary condition.  
+- Stability emerges through balance, not uniformity.  
+
+The project operates through two main layers:
+
+- **LOGOS** — analytical framework  
+- **THEORY** — structural model  
+
+All outputs are part of an ongoing process of reflection and development.
 
 ---
 
-## 🌍 Global Access / الوصول العالمي
-[AR] [العربية](https://bit.ly/4hFJgdU) | [EN] [English](https://bit.ly/4hFJgdU) | [FR] [Français](https://bit.ly/4hFJgdU) | [DE] [Deutsch](https://bit.ly/4hFJgdU) | [ES] [Español](https://bit.ly/4hFJgdU)
+## العربية
+
+PhilosophicalCivilization هو إطار مفاهيمي مفتوح يتعامل مع الحضارة بوصفها بنية منظمة، لا مجرد تسلسل تاريخي خطي.
+
+ويرتكز على:
+
+**CSP — النموذج البنيوي الحضاري**
+
+ينظر هذا النموذج إلى الحضارة بوصفها شبكة من العلاقات التي تتشكل من خلال المسافة والتفاعل والمعنى.
+
+لا يسعى هذا المشروع إلى تقديم إجابات نهائية أو بناء مذهب مغلق،  
+بل إلى تقديم بنية تسمح بإعادة فحص الحضارة والتاريخ والأنظمة الإنسانية بشكل مستمر.
+
+ضمن هذا التصور:
+
+- الحضارة ليست كيانًا ثابتًا، بل بنية متغيرة.  
+- الاختلاف ليس عائقًا، بل شرط أساسي.  
+- الاستقرار يتحقق بالتوازن، لا بالتجانس.  
+
+ويعمل المشروع عبر مستويين أساسيين:
+
+- **LOGOS** — إطار تحليلي  
+- **THEORY** — نموذج بنيوي  
+
+كل ما يُنشر هو جزء من عملية مستمرة للفحص والتطوير.
 
 ---
 
-## 📖 Project Overview | ملخص المشروع
+## Access
 
-### 🇸🇦 العربية (Arabic)
-يقدم هذا المشروع رؤية كونية جديدة تتجاوز التفسيرات المادية والتاريخية المغلقة. يركز على **"الإنسان الكوني"** الذي يختار الوجود كمعنى لا كنجاة، من خلال قوانين (المسافة، الارتداد، واليقظة).
-* **الكلمات المفتاحية:** فلسفة التاريخ، نقد هيجل، نقد ماركس، الوجودية، الصيرورة، ما بعد التاريخ.
+LOGOS:  
+https://github.com/Nabil-Meawad/philosophicalcivilization/tree/main/docs/logos  
 
-### 🇺🇸 English (English)
-A transformative philosophical framework addressing the human condition. It introduces the **"Cosmic Human"** as a being of meaning rather than survival, governed by the Laws of Distance, Recurrence, and Awakening.
-* **Keywords:** Philosophy of History, Post-Hegelian, Metaphysics, Existentialism, Civilizational Becoming, Post-History.
-
-### 🇫🇷 Français (French)
-Un cadre existentiel pour l'évolution de la conscience humaine. Ce projet définit l'**"Humain Cosmique"** à travers une structure spirale de responsabilité universelle.
-* **Mots-clés:** Philosophie de l'histoire, Néo-existentialisme, Devenir civilisationnel, Critique de Hegel, Responsabilité Cosmique.
-
-### 🇩🇪 Deutsch (German)
-Ein philosophisches System zur Überwindung des existenziellen Vakuums. Es entwirft den **"Kosmischen Menschen"** im Kontext einer neuen Geschichtsphilosophie.
-* **Schlüsselwörter:** Geschichtsphilosophie, Neuer Existentialismus, Kosmischer Mensch, Hegel-Kritik, Werden.
-
-### 🇪🇸 Español (Spanish)
-Una propuesta para la evolución de la civilización. Introduce al **"Humano Cósmico"** como un actor de significado en el flujo de la historia universal.
-* **Palabras clave:** Filosofía, Existencialismo, Humano Cósmico, Devenir, Post-historia, Despertar.
+THEORY:  
+https://github.com/Nabil-Meawad/philosophicalcivilization/tree/main/docs/theory  
 
 ---
 
-## 🛠 Framework & Laws | الإطار المنهجي والقوانين
+## Project
 
-| Law | القانون | Function | الوظيفة |
-| :--- | :--- | :--- | :--- |
-| **Law of Distance** | **قانون المسافة** | Infinite Becoming | ضمان أبدية الصيرورة |
-| **Law of Recurrence** | **قانون الارتداد** | Qualitative Accumulation | التراكم النوعي من الهبوط |
-| **Law of Awakening** | **قانون اليقظة** | Ontological Revelation | الكشف الأنطولوجي للقيم |
-
----
-
-## 🚀 Key Links | روابط الوصول
-* **Official Website:** [bit.ly/4hFJgdU](http://bit.ly/4hFJgdU)
-* **Author:** Nabil Meawad
-* **Methodology:** Aion Logos (A.I. Partnership)
-
----
-*This repository is an open invitation for ontological awakening and civilizational dialogue. (Aletheia)*
+#PhilosophicalCivilization  
+#CSP
